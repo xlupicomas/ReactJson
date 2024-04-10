@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://xlupicomas.github.io/ReactJson/myapp6/build/static/css/main.ecc5de51.css",
+    "main.js": "https://xlupicomas.github.io/ReactJson/myapp6/build/static/js/main.463f83bd.js",
+    "static/js/453.3353bf47.chunk.js": "https://xlupicomas.github.io/ReactJson/myapp6/build/static/js/453.3353bf47.chunk.js",
+    "index.html": "https://xlupicomas.github.io/ReactJson/myapp6/build/index.html",
+    "main.ecc5de51.css.map": "https://xlupicomas.github.io/ReactJson/myapp6/build/static/css/main.ecc5de51.css.map",
+    "main.463f83bd.js.map": "https://xlupicomas.github.io/ReactJson/myapp6/build/static/js/main.463f83bd.js.map",
+    "453.3353bf47.chunk.js.map": "https://xlupicomas.github.io/ReactJson/myapp6/build/static/js/453.3353bf47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecc5de51.css",
+    "static/js/main.463f83bd.js"
+  ]
+}
