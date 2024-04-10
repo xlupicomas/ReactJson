@@ -3,27 +3,27 @@
     "nom": "Hotel Bella Vista",
     "id": 1,
     "disponible": true,
-    "imatgeUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476090660.jpg?k=4b3b4c2f8e66cdfbba4a7952dfbd33e9dd342ad02dcee6aa53ee0ada55f0a4da&o=&hp=1"
+    "imatgeUrl": "https://www.stelvio-hotels.com/fileadmin/files/Bilder/Bella_Vista/Hotel/bv_Home_01.jpg"
     },
     {
     "nom": "Hotel Mar Azul",
     "id": 2,
     "disponible": false,
-    "imatgeUrl": "https://www.google.com/imgres?q=hotel-mar-azul&imgurl=https%3A%2F%2Fcf.bstatic.com%2Fxdata%2Fimages%2Fhotel%2Fmax1024x768%2F476090660.jpg%3Fk%3D4b3b4c2f8e66cdfbba4a7952dfbd33e9dd342ad02dcee6aa53ee0ada55f0a4da%26o%3D%26hp%3D1&imgrefurl=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fmar-azul-espinho.es.html&docid=WB8W4bT7gpJ5lM&tbnid=NodDuFL-_Y_bTM&vet=12ahUKEwiPkrHEubWFAxU5hv0HHT53BzcQM3oECGoQAA..i&w=1024&h=576&hcb=2&ved=2ahUKEwiPkrHEubWFAxU5hv0HHT53BzcQM3oECGoQAA"
+    "imatgeUrl": "https://www.stelvio-hotels.com/fileadmin/files/Bilder/Bella_Vista/Hotel/bv_Home_01.jpg"
     },
     
     {
     "nom": "Hotel Sol y Playa",
     "id": 3,
     "disponible": true,
-    "imatgeUrl": "https://www.google.com/imgres?q=hotel-sol-y-playa&imgurl=https%3A%2F%2Fcf.bstatic.com%2Fxdata%2Fimages%2Fhotel%2Fmax1024x768%2F265815645.jpg%3Fk%3D111970e8f049d58a72f8e79223ed03ae76da1889fd9c90059d570e601ce50831%26o%3D%26hp%3D1&imgrefurl=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fsol-playa.es.html&docid=uWa3pou4UdHVqM&tbnid=iUV1tiogIX32rM&vet=12ahUKEwiarM3ZubWFAxW39bsIHQE8Dp4QM3oECEsQAA..i&w=1024&h=683&hcb=2&ved=2ahUKEwiarM3ZubWFAxW39bsIHQE8Dp4QM3oECEsQAA"
+    "imatgeUrl": "https://www.stelvio-hotels.com/fileadmin/files/Bilder/Bella_Vista/Hotel/bv_Home_01.jpg"
     },
     
     {
     "nom": "Hotel Esmeralda",
     "id": 4,
     "disponible": false,
-    "imatgeUrl": "https://www.google.com/imgres?q=hotel-esmeralda&imgurl=https%3A%2F%2Fcf.bstatic.com%2Fxdata%2Fimages%2Fhotel%2Fmax1024x768%2F83014501.jpg%3Fk%3D3a1c2fbd670eab0440b74d163745fce528f0c608cbafcd17bce07f5a82e674e7%26o%3D%26hp%3D1&imgrefurl=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Froca-esmeralda-spa.es.html&docid=hHclWYm_jnOn4M&tbnid=-Hvrrfo5ibdhWM&vet=12ahUKEwi7qvfoubWFAxVKgf0HHSZqBn4QM3oECGgQAA..i&w=1024&h=768&hcb=2&ved=2ahUKEwi7qvfoubWFAxVKgf0HHSZqBn4QM3oECGgQAA"
+    "imatgeUrl": "https://www.stelvio-hotels.com/fileadmin/files/Bilder/Bella_Vista/Hotel/bv_Home_01.jpg"
     },
     
     {

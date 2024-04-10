@@ -30,9 +30,8 @@ function Breeds() {
           <Col key={i} xs={12} sm={6} md={4} lg={3}>
             <div className="card-body2" key={i}>
               <h5 className='card-title'>{Hotel.nom}</h5>
-              <p className='card-text'>{"disponibilidad: "+ Hotel.disponible ? "Disponible" : "No disponible" }</p>
-              <Card.Img/>
-                <Image className="img-fluid "
+              <p className='card-text'>{Hotel.disponible ? "Disponible" : "No disponible" }</p>
+                <Image
                   src={Hotel.ImatgeUrl}
                   alt={Hotel.nom}
                   fluid
