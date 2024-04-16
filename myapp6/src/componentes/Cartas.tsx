@@ -10,7 +10,7 @@ export interface Hotel {
  nom: string
  id: number
  disponible: boolean
- ImatgeUrl: string
+ imatgeUrl: string
 }
 function Breeds() {
   const [Hoteles, setHoteles] = React.useState([] as Hoteles)
@@ -19,6 +19,7 @@ function Breeds() {
     .then((response) => response.json())
     .then((data: Hoteles) => {
         setHoteles(data);
+        console.log(data)
     });
 
   }, []);
@@ -31,11 +32,8 @@ function Breeds() {
             <div className="card-body2" key={i}>
               <h5 className='card-title'>{Hotel.nom}</h5>
               <p className='card-text'>{Hotel.disponible ? "Disponible" : "No disponible" }</p>
-                <Image
-                  src={Hotel.ImatgeUrl}
-                  alt={Hotel.nom}
-                  fluid
-                />
+                <img src={Hotel.imatgeUrl}
+                  alt={Hotel.nom}></img>
             </div>
           </Col>
         ))}
